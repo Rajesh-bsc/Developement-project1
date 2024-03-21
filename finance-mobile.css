@@ -36,9 +36,12 @@
     }
     .cont2-col1 .logo {
         text-align: center;
-        width: 70%;
+        width: 90%;
         /* margin-bottom: 20px; */
        
+    }
+   .logo h2{
+        font-size: 26px;
     }
     .cont2-col1 .menus {
         margin-top: 0;
@@ -110,7 +113,7 @@
     }
     .con3-cont h1{
         width: 100%;
-        font-size: 28px;
+        font-size: 24px;
     }
     .con3-cont p{
         width: 100%;
