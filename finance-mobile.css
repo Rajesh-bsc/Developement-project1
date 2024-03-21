@@ -27,6 +27,20 @@
     }
   
      /* Mobile Responive menu */
+
+      .container1{
+        height: 90vh;
+     }
+     .cont2-col2{
+        
+        width: 100%;
+        margin: 20px 0;
+       
+     }
+     
+    .finance-page-bg{
+        height: 80vh;
+    }
      .cont2-col1 .cont2-col1-header {
         width: 100%;
         
